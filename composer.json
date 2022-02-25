@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think-migration",
+    "name": "oss_think/think-migration",
     "authors": [
         {
             "name": "yunwuxin",
@@ -21,8 +21,8 @@
         }
     },
     "require": {
-        "topthink/framework": "^6.0.0",
-        "topthink/think-helper": "^3.0.3"
+        "oss_think/framework": "^6.0.0",
+        "oss_think/think-helper": "^3.0.3"
     },
     "minimum-stability": "dev",
     "suggest": {

@@ -2,5 +2,5 @@
 
 ## 安装
 ~~~
-composer require topthink/think-migration
+composer require oss_think/think-migration
 ~~~
